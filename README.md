@@ -1,6 +1,6 @@
 # Hi there, I'm Quentin 👋
 
-I am currently enrolled at the University Institute of Technology in Orléans, France, in 3rd year of computer science [BUT](https://fr.wikipedia.org/wiki/Bachelor_universitaire_de_technologie). Currently seeking a 6-month software engineering internship starting in February 2027.
+I am currently enrolled at the University Institute of Technology in Orléans, France, in my 3rd year of computer science [BUT](https://fr.wikipedia.org/wiki/Bachelor_universitaire_de_technologie). Currently seeking a 6-month software engineering internship starting in February 2027.
 
 ## 📖 Languages
 
@@ -16,21 +16,21 @@ I am currently enrolled at the University Institute of Technology in Orléans, F
 
 ### ⏲️[AquaNeutron](https://github.com/ErwanStudent/S3-SAE-ProjetFI)
 
-Tech stack : Java, JavaFX, Maven
+**Tech stack** : Java, JavaFX, Maven
 
-An academic group project in to manage triathlon races for the TriSln41 association with a application.
-- Chronometer participants
+An academic group project to manage triathlon races for the TriSln41 association with an application.
+- Track participant times
 - Preview rankings by racer categories
 - Produce PDF rankings
 - Distribution under multiple systems
 
-My role within the group was to manage data importation and visualisation, chronometer developpment and intergration as well as deployment under multiple systems. 
+My role within the group was to manage data importation and visualisation, chronometer development and integration as well as deployment under multiple systems. 
 
 ### 🧮[Calisto](https://github.com/QuentinChaufour/CALISTO_Interface_Project)
 
-Tech stack : Vue.js, TypeScript, TailwindCSS, Vite
+**Tech stack** : Vue.js, TypeScript, TailwindCSS, Vite
 
 An internship project at [CNRS-ISTO](https://www.isto-orleans.fr/)
 - Redesign of the web interface to the CALISTO HPC server's API
-- Improving user experience and ergonomy 
+- Improving user experience and ergonomics
 - Adding new ways to compute thermodynamic properties.
