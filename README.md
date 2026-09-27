@@ -1,5 +1,6 @@
 # Hi there, I'm Quentin 👋
-I am currently enrolled at the University Institute of Technology in Orléans,France, in 3rd year of computer science [BUT](https://fr.wikipedia.org/wiki/Bachelor_universitaire_de_technologie)!
+
+I am currently enrolled at the University Institute of Technology in Orléans, France, in 3rd year of computer science [BUT](https://fr.wikipedia.org/wiki/Bachelor_universitaire_de_technologie). Currently seeking a 6-month software engineering internship starting in February 2027.
 
 ## 📖 Languages
 
@@ -13,23 +14,23 @@ I am currently enrolled at the University Institute of Technology in Orléans,Fr
 
 ## 🔭 Projects
 
-### ⏲️ AquaNeutron
+### ⏲️[AquaNeutron](https://github.com/ErwanStudent/S3-SAE-ProjetFI)
 
 Tech stack : Java, JavaFX, Maven
 
-![See project](https://github.com/ErwanStudent/S3-SAE-ProjetFI)
-
-An academic project in to manage triathlon races for the TriSln41 association with a application.
+An academic group project in to manage triathlon races for the TriSln41 association with a application.
 - Chronometer participants
 - Preview rankings by racer categories
 - Produce PDF rankings
 - Distribution under multiple systems
 
-### 🧮 Calisto
+My role within the group was to manage data importation and visualisation, chronometer developpment and intergration as well as deployment under multiple systems. 
 
-![See project](https://github.com/QuentinChaufour/CALISTO_Interface_Project)
+### 🧮[Calisto](https://github.com/QuentinChaufour/CALISTO_Interface_Project)
 
 Tech stack : Vue.js, TypeScript, TailwindCSS, Vite
-An internship project at [CNRS-ISTO](https://www.isto-orleans.fr/)
-Redesign of the web interface to the CALISTO HPC server's API and provide new ways to compute thermodynamic properties.
 
+An internship project at [CNRS-ISTO](https://www.isto-orleans.fr/)
+- Redesign of the web interface to the CALISTO HPC server's API
+- Improving user experience and ergonomy 
+- Adding new ways to compute thermodynamic properties.
