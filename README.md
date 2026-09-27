@@ -1,6 +1,4 @@
-# Quentin Chaufour
-
-## Hi there 👋
+# Hi there, I'm Quentin 👋
 I am currently enrolled at the University Institute of Technology in Orléans,France, in 3rd year of computer science [BUT](https://fr.wikipedia.org/wiki/Bachelor_universitaire_de_technologie)!
 
 ## 📖 Languages
